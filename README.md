@@ -1,2 +1,2 @@
 # randomAHKScripts
-random ahk scripts
+random ahk scripts that I throw together for whatever reason.
